@@ -4,7 +4,7 @@ This repository includes four beginner-level machine learning projects built wit
 
 ## Projects
 
-## 🔍 Project 1: Titanic - Survival Prediction 
+##  Project 1: Titanic - Survival Prediction 
 
 **Objective:** Predict whether passengers survived or not.
 
@@ -12,7 +12,7 @@ This repository includes four beginner-level machine learning projects built wit
 - Logistic Regression
 - Decision Tree Classifier
   
-## 🏠 Project 2: House Price Prediction
+##  Project 2: House Price Prediction
 
 **Objective:** Predict house prices based on various features.
 
@@ -20,7 +20,7 @@ This repository includes four beginner-level machine learning projects built wit
 - Linear Regression
 - Random Forest Regressor
   
-## 🧬 Project 3: Cancer Diagnosis (Classification - Breast Cancer)
+##  Project 3: Cancer Diagnosis (Classification - Breast Cancer)
 
 **Objective:** Classify whether cells are cancerous (malignant) or non-cancerous (benign).
 
@@ -28,7 +28,7 @@ This repository includes four beginner-level machine learning projects built wit
 - Support Vector Machines (SVM)
 - K-Nearest Neighbors (KNN)
   
-## 🛍️ Project 4: Customer Segmentation (Clustering)
+##  Project 4: Customer Segmentation (Clustering)
 
 **Objective:** Group customers into segments based on similar behavior.
 
@@ -45,3 +45,5 @@ Python 3.x with common ML libraries: `pandas`, `scikit-learn`, `matplotlib`, `se
 ---
 
 This repo serves as a personal learning record and a demonstration of practical machine learning applications.
+
+...by Vira
